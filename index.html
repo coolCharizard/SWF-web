@@ -1,0 +1,46 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<style media="screen" type="text/css">
+body {
+    background:url(http://2.bp.blogspot.com/-Ummm40Mgzmw/Ty6USuCP0zI/AAAAAAAAEbg/0YMVVoNPBis/s1600/Rainbow_Spiral_Animation_Animated_Gif.gif);
+
+}
+</style>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Under Construction</title>
+</head>
+<body>
+<br>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+   <tr>
+      <td align="center">
+      <h1 style="margin:0;padding:0;font-family: trebuchet ms;">We're Making Progress!
+      <br><small style="color: #888;" align="center">Come Back Soon.</small>
+      </h1>
+<br><br><br><br><br><br><br><br>
+      <marquee><img src="http://i.imgur.com/eawIzNc.png"></marquee>
+      <marquee direction="right" behavior="alternate" scrollamount=10><img src="http://i.imgur.com/ev7FqDK.png"></marquee>
+      </td>
+      </tr>
+    </table>
+  </body>
+
+<?php
+$servername = "localhost";
+$username = "artinkcx_swfuser";
+$password = "";
+
+try {
+    $conn = new PDO("mysql:host=$servername;dbname=artinkcx_swf", $username, $password);
+    // set the PDO error mode to exception
+    $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+    echo "Connected successfully";
+    }
+catch(PDOException $e)
+    {
+    echo "Connection failed: " . $e->getMessage();
+    }
+?>
+</html>

@@ -1,0 +1,689 @@
+[15-Feb-2015 02:16:40 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 14
+[15-Feb-2015 02:18:04 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 14
+[15-Feb-2015 02:18:07 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 14
+[15-Feb-2015 02:19:46 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 14
+[15-Feb-2015 02:20:08 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 14
+[15-Feb-2015 02:20:09 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 14
+[15-Feb-2015 02:20:14 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/artinkcx/public_html/sandbox/getuser.php on line 18
+[15-Feb-2015 02:20:38 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 14
+[15-Feb-2015 02:21:38 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 14
+[15-Feb-2015 02:21:38 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 14
+[15-Feb-2015 02:21:39 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 14
+[15-Feb-2015 02:21:39 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 14
+[15-Feb-2015 02:21:39 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 14
+[15-Feb-2015 02:21:39 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 14
+[15-Feb-2015 02:21:39 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 14
+[15-Feb-2015 02:21:40 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 14
+[15-Feb-2015 02:21:40 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 14
+[15-Feb-2015 02:21:40 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 14
+[15-Feb-2015 02:21:40 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 14
+[15-Feb-2015 02:22:02 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 14
+[16-Feb-2015 22:18:28 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 18
+[16-Feb-2015 22:18:28 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 18
+[16-Feb-2015 22:19:02 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 18
+[16-Feb-2015 22:21:20 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 18
+[16-Feb-2015 22:21:59 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 18
+[16-Feb-2015 22:22:07 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 18
+[16-Feb-2015 22:22:09 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 18
+[16-Feb-2015 22:22:10 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 18
+[16-Feb-2015 22:22:21 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/artinkcx/public_html/sandbox/getuser.php on line 16
+[16-Feb-2015 22:22:23 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/artinkcx/public_html/sandbox/getuser.php on line 16
+[16-Feb-2015 22:22:23 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/artinkcx/public_html/sandbox/getuser.php on line 16
+[16-Feb-2015 22:22:23 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/artinkcx/public_html/sandbox/getuser.php on line 16
+[16-Feb-2015 22:23:34 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 18
+[16-Feb-2015 22:23:35 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 18
+[16-Feb-2015 22:23:36 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 18
+[16-Feb-2015 22:23:36 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 18
+[16-Feb-2015 22:23:36 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 18
+[16-Feb-2015 22:25:11 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 19
+[16-Feb-2015 22:25:57 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 19
+[16-Feb-2015 22:26:37 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 19
+[16-Feb-2015 22:26:57 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/artinkcx/public_html/sandbox/getuser.php on line 19
+[18-Feb-2015 18:57:23 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'artinkcx_swfuser'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 6
+[18-Feb-2015 18:57:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 13
+[18-Feb-2015 18:57:23 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 14
+[18-Feb-2015 18:57:23 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 21
+[18-Feb-2015 18:57:24 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'artinkcx_swfuser'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 6
+[18-Feb-2015 18:57:24 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 13
+[18-Feb-2015 18:57:24 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 14
+[18-Feb-2015 18:57:24 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 21
+[18-Feb-2015 18:57:24 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'artinkcx_swfuser'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 6
+[18-Feb-2015 18:57:24 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 13
+[18-Feb-2015 18:57:24 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 14
+[18-Feb-2015 18:57:24 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 21
+[18-Feb-2015 18:57:25 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'artinkcx_swfuser'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 6
+[18-Feb-2015 18:57:25 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 13
+[18-Feb-2015 18:57:25 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 14
+[18-Feb-2015 18:57:25 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 21
+[18-Feb-2015 18:57:25 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'artinkcx_swfuser'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 6
+[18-Feb-2015 18:57:25 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 13
+[18-Feb-2015 18:57:25 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 14
+[18-Feb-2015 18:57:25 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 21
+[18-Feb-2015 18:57:26 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'artinkcx_swfuser'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 6
+[18-Feb-2015 18:57:26 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 13
+[18-Feb-2015 18:57:26 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 14
+[18-Feb-2015 18:57:26 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 21
+[18-Feb-2015 18:57:26 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'artinkcx_swfuser'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 6
+[18-Feb-2015 18:57:26 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 13
+[18-Feb-2015 18:57:26 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 14
+[18-Feb-2015 18:57:26 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 21
+[18-Feb-2015 18:57:26 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'artinkcx_swfuser'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 6
+[18-Feb-2015 18:57:26 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 13
+[18-Feb-2015 18:57:26 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 14
+[18-Feb-2015 18:57:26 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 21
+[18-Feb-2015 18:57:27 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'artinkcx_swfuser'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 6
+[18-Feb-2015 18:57:27 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 13
+[18-Feb-2015 18:57:27 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 14
+[18-Feb-2015 18:57:27 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 21
+[18-Feb-2015 18:57:27 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'artinkcx_swfuser'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 6
+[18-Feb-2015 18:57:27 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 13
+[18-Feb-2015 18:57:27 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 14
+[18-Feb-2015 18:57:27 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 21
+[18-Feb-2015 18:57:27 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'artinkcx_swfuser'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 6
+[18-Feb-2015 18:57:27 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 13
+[18-Feb-2015 18:57:27 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 14
+[18-Feb-2015 18:57:27 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 21
+[18-Feb-2015 18:57:27 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'artinkcx_swfuser'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 6
+[18-Feb-2015 18:57:27 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 13
+[18-Feb-2015 18:57:27 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 14
+[18-Feb-2015 18:57:27 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 21
+[18-Feb-2015 18:57:28 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'artinkcx_swfuser'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 6
+[18-Feb-2015 18:57:28 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 13
+[18-Feb-2015 18:57:28 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 14
+[18-Feb-2015 18:57:28 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 21
+[18-Feb-2015 18:57:42 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'artinkcx_swfuser'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 6
+[18-Feb-2015 18:57:42 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 13
+[18-Feb-2015 18:57:42 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 14
+[18-Feb-2015 18:57:42 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 21
+[18-Feb-2015 19:10:10 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'artinkcx_swfuser'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 6
+[18-Feb-2015 19:10:10 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 13
+[18-Feb-2015 19:10:10 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 14
+[18-Feb-2015 19:10:10 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 21
+[18-Feb-2015 19:10:10 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'artinkcx_swfuser'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 6
+[18-Feb-2015 19:10:10 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 13
+[18-Feb-2015 19:10:10 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 14
+[18-Feb-2015 19:10:10 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 21
+[18-Feb-2015 19:10:11 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'artinkcx_swfuser'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 6
+[18-Feb-2015 19:10:11 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 13
+[18-Feb-2015 19:10:11 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 14
+[18-Feb-2015 19:10:11 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 21
+[18-Feb-2015 19:10:18 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'artinkcx_swfuser'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 6
+[18-Feb-2015 19:10:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 13
+[18-Feb-2015 19:10:18 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 14
+[18-Feb-2015 19:10:18 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 21
+[18-Feb-2015 19:23:20 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'artinkcx_swfuser'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 6
+[18-Feb-2015 19:23:20 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 13
+[18-Feb-2015 19:23:20 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 14
+[18-Feb-2015 19:23:20 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 21
+[18-Feb-2015 19:32:48 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'artinkcx_swfuser'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 6
+[18-Feb-2015 19:32:48 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 13
+[18-Feb-2015 19:32:48 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 14
+[18-Feb-2015 19:32:48 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 21
+[18-Feb-2015 19:34:36 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'artinkcx_swfuser'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 6
+[18-Feb-2015 19:34:36 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 13
+[18-Feb-2015 19:34:36 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 14
+[18-Feb-2015 19:34:36 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 21
+[18-Feb-2015 19:37:38 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'artinkcx_swfuser'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 6
+[18-Feb-2015 19:37:38 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 13
+[18-Feb-2015 19:37:38 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 14
+[18-Feb-2015 19:37:38 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 21
+[18-Feb-2015 19:37:38 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'artinkcx_swfuser'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 6
+[18-Feb-2015 19:37:38 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 13
+[18-Feb-2015 19:37:38 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 14
+[18-Feb-2015 19:37:38 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 21
+[18-Feb-2015 19:38:17 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'artinkcx_swfuser'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 6
+[18-Feb-2015 19:38:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 13
+[18-Feb-2015 19:38:17 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 14
+[18-Feb-2015 19:38:17 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 21
+[18-Feb-2015 19:38:29 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'artinkcx_swfuser'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 6
+[18-Feb-2015 19:38:29 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 13
+[18-Feb-2015 19:38:29 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 14
+[18-Feb-2015 19:38:29 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 21
+[18-Feb-2015 19:38:45 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'artinkcx_swfuser'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 6
+[18-Feb-2015 19:38:45 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 13
+[18-Feb-2015 19:38:45 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 14
+[18-Feb-2015 19:38:45 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 21
+[18-Feb-2015 19:42:05 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'artinkcx_swfuser'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 6
+[18-Feb-2015 19:42:05 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 13
+[18-Feb-2015 19:42:05 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 14
+[18-Feb-2015 19:42:05 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 21
+[18-Feb-2015 19:42:12 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'artinkcx_swfuser'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 6
+[18-Feb-2015 19:42:12 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 13
+[18-Feb-2015 19:42:12 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 14
+[18-Feb-2015 19:42:12 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 21
+[18-Feb-2015 19:43:49 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'artinkcx_swfuser'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 6
+[18-Feb-2015 19:43:49 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 13
+[18-Feb-2015 19:43:49 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 14
+[18-Feb-2015 19:43:49 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 21
+[18-Feb-2015 19:45:27 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'artinkcx_swfuser'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 6
+[18-Feb-2015 19:45:27 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 13
+[18-Feb-2015 19:45:27 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 14
+[18-Feb-2015 19:45:27 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 21
+[18-Feb-2015 19:48:29 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'artinkcx_swfuser'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 6
+[18-Feb-2015 19:48:29 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 13
+[18-Feb-2015 19:48:29 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 14
+[18-Feb-2015 19:48:29 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 21
+[18-Feb-2015 19:49:29 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'artinkcx_swfuser'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 6
+[18-Feb-2015 19:49:29 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 13
+[18-Feb-2015 19:49:29 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 14
+[18-Feb-2015 19:49:29 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 21
+[18-Feb-2015 19:52:09 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'artinkcx_swfuser'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 6
+[18-Feb-2015 19:52:09 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 13
+[18-Feb-2015 19:52:09 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 14
+[18-Feb-2015 19:52:09 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 21
+[19-Feb-2015 17:56:11 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[19-Feb-2015 17:56:11 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[19-Feb-2015 17:56:38 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[19-Feb-2015 17:56:38 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[26-Feb-2015 00:51:34 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'artinkcx_swfuser'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 6
+[26-Feb-2015 00:51:34 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 13
+[26-Feb-2015 00:51:34 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 14
+[26-Feb-2015 00:51:34 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 21
+[01-Mar-2015 18:20:39 Etc/GMT] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 5
+[01-Mar-2015 18:20:39 Etc/GMT] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 5
+[01-Mar-2015 18:20:54 Etc/GMT] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 5
+[01-Mar-2015 18:21:00 Etc/GMT] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 5
+[01-Mar-2015 18:23:44 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:23:44 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:25:13 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:25:13 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:25:14 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:25:14 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:25:15 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:25:15 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:25:17 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:25:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:25:17 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:25:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:25:21 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:25:21 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:15 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:15 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:15 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:15 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:15 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:15 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:16 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:16 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:16 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:16 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:16 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:16 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:16 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:19 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:19 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:19 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:19 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:19 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:19 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:19 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:19 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:19 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:19 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:19 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:19 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:19 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:19 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:19 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:19 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:19 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:19 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:19 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:19 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:19 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:19 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:19 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:19 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:19 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:19 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:19 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:19 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:19 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:19 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:19 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:19 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:19 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:19 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:20 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:20 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:20 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:20 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:20 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:20 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:20 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:20 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:20 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:20 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:20 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:20 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:20 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:20 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:20 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:20 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:20 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:20 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:20 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:20 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:20 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:20 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:20 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:20 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:20 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:20 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:20 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:20 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:20 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:20 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:20 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:20 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:20 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:20 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:21 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:22 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:22 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:22 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:22 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:22 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:22 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:22 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:22 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:22 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:22 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:22 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:22 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:22 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:22 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:22 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:22 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:22 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:22 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:22 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:22 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:23 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:23 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:23 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:23 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:23 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:23 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:23 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:23 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:23 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:23 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:24 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:25 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:25 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:25 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:25 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:25 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:25 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:25 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:25 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:25 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:25 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:25 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:25 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:25 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:25 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:25 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:25 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:26 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:26 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:26 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:26 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:26 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:26 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:26 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:26 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:26 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:26 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:26 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:26 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:26 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:26 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:26 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:26 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:26 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:26 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:26 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:26 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:26 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:26 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:26 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:26 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:27 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:27 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:27 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:27 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:27 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:27 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:26:27 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs_temp'@'localhost' (using password: YES) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:26:27 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:30:41 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'siddhwcs_temp'@'localhost' to database 'siddhwcs_artinkcx_swf' in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:30:41 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:30:45 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'siddhwcs_temp'@'localhost' to database 'siddhwcs_artinkcx_swf' in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:30:45 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:30:45 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'siddhwcs_temp'@'localhost' to database 'siddhwcs_artinkcx_swf' in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:30:45 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:30:46 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'siddhwcs_temp'@'localhost' to database 'siddhwcs_artinkcx_swf' in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:30:46 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:30:47 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'siddhwcs_temp'@'localhost' to database 'siddhwcs_artinkcx_swf' in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:30:47 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:30:48 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'siddhwcs_temp'@'localhost' to database 'siddhwcs_artinkcx_swf' in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:30:48 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:30:49 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'siddhwcs_temp'@'localhost' to database 'siddhwcs_artinkcx_swf' in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:30:49 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:30:52 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'siddhwcs_temp'@'localhost' to database 'siddhwcs_artinkcx_swf' in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 7
+[01-Mar-2015 18:30:52 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 11
+[01-Mar-2015 18:46:14 Etc/GMT] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 5
+[01-Mar-2015 18:46:15 Etc/GMT] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 5
+[01-Mar-2015 18:46:25 Etc/GMT] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 5
+[01-Mar-2015 18:46:28 Etc/GMT] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 5
+[01-Mar-2015 18:47:00 Etc/GMT] PHP Parse error:  syntax error, unexpected 's' (T_STRING) in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 5
+[02-Mar-2015 00:10:03 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 14
+[02-Mar-2015 00:10:03 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 14
+[02-Mar-2015 00:10:08 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 14
+[02-Mar-2015 00:10:28 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 14
+[02-Mar-2015 00:10:35 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 14
+[02-Mar-2015 00:10:41 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 14
+[02-Mar-2015 00:12:51 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 14
+[02-Mar-2015 00:12:58 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 14
+[02-Mar-2015 00:12:58 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 14
+[02-Mar-2015 00:13:04 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 14
+[02-Mar-2015 00:21:58 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 14
+[02-Mar-2015 00:21:59 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 14
+[02-Mar-2015 00:22:01 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 14
+[02-Mar-2015 00:22:08 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserregister.php on line 14
+[02-Mar-2015 00:22:20 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 14
+[02-Mar-2015 00:48:28 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 14
+[02-Mar-2015 00:56:17 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 14
+[02-Mar-2015 17:21:11 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 14
+[02-Mar-2015 17:21:21 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 14
+[03-Mar-2015 00:39:52 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 14
+[04-Mar-2015 17:41:37 Etc/GMT] PHP Parse error:  syntax error, unexpected '$username' (T_VARIABLE) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 14
+[04-Mar-2015 17:44:05 Etc/GMT] PHP Parse error:  syntax error, unexpected '",0)"' (T_CONSTANT_ENCAPSED_STRING) in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 20
+[04-Mar-2015 17:50:53 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 29
+[04-Mar-2015 19:22:53 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 27
+[04-Mar-2015 19:26:06 Etc/GMT] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 21
+[04-Mar-2015 19:26:09 Etc/GMT] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 21
+[04-Mar-2015 19:27:30 Etc/GMT] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 21
+[04-Mar-2015 19:27:31 Etc/GMT] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 21
+[04-Mar-2015 19:38:31 Etc/GMT] PHP Fatal error:  Call to undefined method mysqli_result::_toString() in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 21
+[04-Mar-2015 19:41:55 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 21
+[04-Mar-2015 19:41:56 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 21
+[04-Mar-2015 19:41:56 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 21
+[04-Mar-2015 19:43:10 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 22
+[04-Mar-2015 19:43:13 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 22
+[04-Mar-2015 19:43:15 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 22
+[04-Mar-2015 19:43:16 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 22
+[04-Mar-2015 19:43:16 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 22
+[04-Mar-2015 19:43:17 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 22
+[04-Mar-2015 19:43:17 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 22
+[04-Mar-2015 19:43:18 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 22
+[04-Mar-2015 19:43:19 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 22
+[04-Mar-2015 19:43:19 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home/siddhwcs/public_html/artineer.com/sandbox/adduser.php on line 22
+[04-Mar-2015 19:56:41 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 14
+[04-Mar-2015 23:47:06 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 14
+[05-Mar-2015 01:19:21 Etc/GMT] PHP Parse error:  syntax error, unexpected '$description' (T_VARIABLE) in /home/siddhwcs/public_html/artineer.com/sandbox/addlisting.php on line 15
+[05-Mar-2015 01:20:08 Etc/GMT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/siddhwcs/public_html/artineer.com/sandbox/addlisting.php on line 24
+[05-Mar-2015 01:39:11 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 20
+[05-Mar-2015 01:39:11 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 20
+[05-Mar-2015 01:39:12 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/siddhwcs/public_html/artineer.com/sandbox/getuserlogin.php on line 20
+[05-Mar-2015 03:21:56 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuser.php on line 14
+[05-Mar-2015 03:21:57 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuser.php on line 14
+[05-Mar-2015 03:21:57 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuser.php on line 14
+[05-Mar-2015 03:22:32 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuser.php on line 14
+[05-Mar-2015 03:46:54 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 19
+[05-Mar-2015 03:47:12 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 19
+[05-Mar-2015 03:47:35 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 19
+[05-Mar-2015 03:47:55 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 19
+[05-Mar-2015 03:50:55 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 19
+[06-Mar-2015 02:20:05 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/siddhwcs/public_html/artineer.com/sandbox/deletefriend.php on line 26
+[06-Mar-2015 02:20:30 Etc/GMT] PHP Warning:  mysql_error() expects parameter 1 to be resource, string given in /home/siddhwcs/public_html/artineer.com/sandbox/deletefriend.php on line 25
+[06-Mar-2015 02:28:51 Etc/GMT] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 25
+[06-Mar-2015 02:30:55 Etc/GMT] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 18
+[06-Mar-2015 02:32:09 Etc/GMT] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 20
+[06-Mar-2015 02:41:50 Etc/GMT] PHP Parse error:  syntax error, unexpected '$listingID' (T_VARIABLE) in /home/siddhwcs/public_html/artineer.com/sandbox/addlisting.php on line 15
+[06-Mar-2015 02:42:01 Etc/GMT] PHP Parse error:  syntax error, unexpected 'New' (T_NEW) in /home/siddhwcs/public_html/artineer.com/sandbox/addlisting.php on line 25
+[06-Mar-2015 02:44:34 Etc/GMT] PHP Parse error:  syntax error, unexpected 'New' (T_NEW) in /home/siddhwcs/public_html/artineer.com/sandbox/addlisting.php on line 25
+[06-Mar-2015 02:44:50 Etc/GMT] PHP Parse error:  syntax error, unexpected 'new' (T_NEW) in /home/siddhwcs/public_html/artineer.com/sandbox/addlisting.php on line 25
+[06-Mar-2015 02:44:58 Etc/GMT] PHP Parse error:  syntax error, unexpected 'old' (T_STRING) in /home/siddhwcs/public_html/artineer.com/sandbox/addlisting.php on line 25
+[06-Mar-2015 02:45:22 Etc/GMT] PHP Parse error:  syntax error, unexpected 'stuff' (T_STRING) in /home/siddhwcs/public_html/artineer.com/sandbox/addlisting.php on line 25
+[06-Mar-2015 02:48:32 Etc/GMT] PHP Parse error:  syntax error, unexpected 'stuff' (T_STRING) in /home/siddhwcs/public_html/artineer.com/sandbox/addlisting.php on line 25
+[06-Mar-2015 02:48:37 Etc/GMT] PHP Parse error:  syntax error, unexpected 'stuff' (T_STRING) in /home/siddhwcs/public_html/artineer.com/sandbox/addlisting.php on line 25
+[06-Mar-2015 02:48:48 Etc/GMT] PHP Parse error:  syntax error, unexpected 'Insert' (T_STRING) in /home/siddhwcs/public_html/artineer.com/sandbox/addlisting.php on line 23
+[06-Mar-2015 02:52:50 Etc/GMT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/siddhwcs/public_html/artineer.com/sandbox/addlisting.php on line 27
+[06-Mar-2015 03:00:02 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 20
+[06-Mar-2015 03:26:49 Etc/GMT] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/siddhwcs/public_html/artineer.com/sandbox/getlistings.php on line 13
+[06-Mar-2015 03:28:09 Etc/GMT] PHP Parse error:  syntax error, unexpected '"<br>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/siddhwcs/public_html/artineer.com/sandbox/getlistings.php on line 20
+[06-Mar-2015 04:16:02 Etc/GMT] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 28
+[06-Mar-2015 04:19:17 Etc/GMT] PHP Warning:  mysqli::query(): Empty query in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 19
+[06-Mar-2015 04:19:26 Etc/GMT] PHP Warning:  mysqli::query(): Empty query in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 19
+[06-Mar-2015 04:21:49 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 18
+[06-Mar-2015 04:22:14 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 18
+[06-Mar-2015 04:22:18 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 18
+[06-Mar-2015 04:24:53 Etc/GMT] PHP Parse error:  syntax error, unexpected 'user_table' (T_STRING) in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 19
+[06-Mar-2015 04:40:02 Etc/GMT] PHP Parse error:  syntax error, unexpected '*' in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 31
+[06-Mar-2015 04:55:15 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 34
+[06-Mar-2015 04:57:13 Etc/GMT] PHP Parse error:  syntax error, unexpected '"- Name: "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 36
+[06-Mar-2015 04:57:14 Etc/GMT] PHP Parse error:  syntax error, unexpected '"- Name: "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 36
+[07-Mar-2015 19:14:37 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 27
+[07-Mar-2015 19:14:52 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 27
+[07-Mar-2015 19:14:57 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 27
+[07-Mar-2015 19:31:50 Etc/GMT] PHP Parse error:  syntax error, unexpected '$servername' (T_VARIABLE) in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 4
+[07-Mar-2015 19:32:14 Etc/GMT] PHP Parse error:  syntax error, unexpected '$con' (T_VARIABLE) in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 9
+[07-Mar-2015 19:32:26 Etc/GMT] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ',' or ';' in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 27
+[07-Mar-2015 19:32:54 Etc/GMT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 45
+[07-Mar-2015 19:33:46 Etc/GMT] PHP Warning:  include(headerphp): failed to open stream: No such file or directory in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 2
+[07-Mar-2015 19:33:46 Etc/GMT] PHP Warning:  include(headerphp): failed to open stream: No such file or directory in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 2
+[07-Mar-2015 19:33:46 Etc/GMT] PHP Warning:  include(): Failed opening 'headerphp' for inclusion (include_path='.:/usr/local/altphp54/lib/php') in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 2
+[07-Mar-2015 19:33:46 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'siddhwcs'@'localhost' (using password: NO) in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 9
+[07-Mar-2015 19:33:46 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 22
+[07-Mar-2015 19:34:53 Etc/GMT] PHP Parse error:  syntax error, unexpected '/' in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 2
+[07-Mar-2015 19:35:09 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/siddhwcs/public_html/artineer.com/sandbox/header.php on line 9
+[07-Mar-2015 19:37:24 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 43
+[07-Mar-2015 19:38:04 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/siddhwcs/public_html/artineer.com/sandbox/header.php on line 9
+[07-Mar-2015 19:46:58 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 12
+[13-Mar-2015 04:29:32 Etc/GMT] PHP Parse error:  syntax error, unexpected '$dealID' (T_VARIABLE) in /home/siddhwcs/public_html/artineer.com/sandbox/adddeal.php on line 13
+[13-Mar-2015 04:31:53 Etc/GMT] PHP Parse error:  syntax error, unexpected '$dealID' (T_VARIABLE) in /home/siddhwcs/public_html/artineer.com/sandbox/adddeal.php on line 13
+[13-Mar-2015 04:33:46 Etc/GMT] PHP Parse error:  syntax error, unexpected '$dealID' (T_VARIABLE) in /home/siddhwcs/public_html/artineer.com/sandbox/adddeal.php on line 13
+[13-Mar-2015 16:14:26 Etc/GMT] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/siddhwcs/public_html/artineer.com/sandbox/listfriends.php on line 20
+[13-Mar-2015 16:30:45 Etc/GMT] PHP Parse error:  syntax error, unexpected '$dealID' (T_VARIABLE) in /home/siddhwcs/public_html/artineer.com/sandbox/adddeal.php on line 13
+[13-Mar-2015 16:41:25 Etc/GMT] PHP Parse error:  syntax error, unexpected '$dealID' (T_VARIABLE) in /home/siddhwcs/public_html/artineer.com/sandbox/adddeal.php on line 13
+[23-Mar-2015 01:34:15 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/siddhwcs/public_html/artineer.com/sandbox/testform.php on line 41
+[25-Mar-2015 04:21:13 Etc/GMT] PHP Parse error:  syntax error, unexpected '$dealID' (T_VARIABLE) in /home/siddhwcs/public_html/artineer.com/sandbox/adddeal.php on line 13
+[25-Mar-2015 04:21:45 Etc/GMT] PHP Parse error:  syntax error, unexpected '$dealID' (T_VARIABLE) in /home/siddhwcs/public_html/artineer.com/sandbox/adddeal.php on line 13
+[25-Mar-2015 04:31:33 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/siddhwcs/public_html/artineer.com/sandbox/adddeal.php on line 30
+[27-Mar-2015 11:37:56 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/siddhwcs/public_html/artineer.com/sandbox/adddeal.php on line 39
+[27-Mar-2015 12:14:58 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/siddhwcs/public_html/artineer.com/sandbox/adddeal.php on line 39
+[27-Mar-2015 12:15:42 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/siddhwcs/public_html/artineer.com/sandbox/adddeal.php on line 39
+[27-Mar-2015 12:20:18 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/siddhwcs/public_html/artineer.com/sandbox/adddeal.php on line 39
+[27-Mar-2015 12:36:39 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/siddhwcs/public_html/artineer.com/sandbox/adddeal.php on line 39
+[27-Mar-2015 12:37:55 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/siddhwcs/public_html/artineer.com/sandbox/adddeal.php on line 39
+[27-Mar-2015 14:57:33 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/siddhwcs/public_html/artineer.com/sandbox/adddeal.php on line 39
+[27-Mar-2015 14:59:06 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/siddhwcs/public_html/artineer.com/sandbox/adddeal.php on line 39
+[07-Apr-2015 22:49:58 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/siddhwcs/public_html/artineer.com/sandbox/getuser.php on line 12
